@@ -1,6 +1,6 @@
 # TSDev within Container
 
-**`Proof of concept`** for an app which is debuged and compiled within a container.
+**`Proof of concept`** for an app which is debugged and compiled within a container.
 
 ## Usage
 
